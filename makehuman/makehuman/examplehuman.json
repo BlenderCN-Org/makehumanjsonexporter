@@ -1,0 +1,22 @@
+{
+	"measure/measure-ankle-circ-decr|incr": 1,
+	"macrodetails/Gender": 0,
+	"armslegs/l-lowerarm-muscle-decr|incr": "1",
+	"macrodetails-universal/Weight": 0.75,
+	"measure/measure-underbust-circ-decr|incr": -1,
+	"head/head-triangular": 0,
+	"skin": "young_caucasian_female_special_suit",
+	"ears/l-ear-trans-backward|forward": -1,
+	"ears/r-ear-trans-backward|forward": -1,
+	"macrodetails/African": 0.66,
+	"macrodetails/Caucasian": 0.5,
+	"macrodetails/Asian": 0.1,
+	"clothes": ["male_elegantsuit01","fedora"],
+	"eyes": "low-poly",
+	"hair": "afro01",
+	"teeth": "teeth_shape02",
+	"eyebrows": "eyebrow003",
+	"eyelashes": "eyelashes03",
+	"tongue": "tongue01",
+	"custom/Chin": 0.75
+}
