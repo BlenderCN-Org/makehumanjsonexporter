@@ -1,5 +1,5 @@
 ### Installation guide
-Step-1: Clone the repository in the home directory.
+Step-1: Clone the repository in the home directory with `git clone https://github.com/norahabsentia/makehumanjsonexporter`. Copy the makehuman folder in `~/` dirextory.
 
 Step-2: Run the following commands.
 1. `sudo apt-get update`
